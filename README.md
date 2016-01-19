@@ -2,7 +2,7 @@
 
 This is a simple example of how to use Leex and Yecc.
 
-This is discussed in a corresponding blog article.
+This is discussed in a corresponding blog article. (http://relops.com/blog/2014/01/13/leex_and_yecc/)
 
 To run the test suite, run the default Makefile target:
 
